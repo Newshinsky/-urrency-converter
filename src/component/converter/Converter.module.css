@@ -1,0 +1,24 @@
+.converterInfoWrapper {
+    width: 1000px;
+    height: 200px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: row;
+    box-shadow: 0.4em 0.4em 25px black;
+    background: rgb(223, 222, 222);
+}
+
+.converterInfoWrapper input {
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+.selectWrapper {
+    margin: 0 20px;
+    width: 200px
+}

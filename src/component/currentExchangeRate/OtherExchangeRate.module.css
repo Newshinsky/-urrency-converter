@@ -1,0 +1,28 @@
+.CourseItem .valueName,
+.CourseItem .valueInfo,
+.CourseItem .valueRate {
+    width: 300px;
+    border: 1px solid;
+    display: inline-block;
+    background: rgb(223, 222, 222);
+}
+
+.OtherExchangeRateWrapper {
+    margin-top: 100px;
+
+}
+
+.OtherExchangeRateWrapper h3,
+.OtherExchangeRateWrapper h5 {
+    display: flex;
+    justify-content: center;
+    color: rgb(223, 222, 222);
+    font-size: 30px;
+
+}
+
+.CourseItem {
+    display: flex;
+    flex-direction: row;
+    font-size: 20px;
+}
